@@ -190,7 +190,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -899,8 +899,8 @@ h4 {
   h6,
   p,
   #disqus_thread {
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   .b-parallax {
     background-attachment: scroll;
